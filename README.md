@@ -1,4 +1,5 @@
 Embedded C and I2C
+
 Welcome to the Embedded C and I2C repository! This repository is a collection of resources, examples, and projects related to Embedded C programming and I2C communication. Whether you are a beginner exploring embedded systems or an experienced developer working with I2C, this repository provides a variety of materials to enhance your knowledge and skills.
 
 Contents
